@@ -20,3 +20,8 @@ func main() {
 ```
 Hello Go!
 ```
+
+## 基础
+
+- [常量](./constant)
+- [变量](./varible)
